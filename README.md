@@ -39,7 +39,7 @@ Additionally, a GUI-based interface (`gui.py`) is included using `Tkinter` to in
 
 2. **Run the C Program:**
    ```bash
-    ./student_management_system
+   ./student_management_system
 
    ```
 The program will prompt you to log in with an admin ID and password (admin/password). After authentication, you can perform various actions such as adding, viewing, deleting, or saving students.
@@ -70,9 +70,9 @@ A graphical window will open where you can add and view student data.
 
 ## File Structure
 
-├── Student_Management_System.c       # Main C program for student management
-├── gui.py                            # Python GUI program using Tkinter
-└── students.txt                      # Data file storing student information
+├── Student_Management_System.c       # Main C program for student management <br>
+├── gui.py                            # Python GUI program using Tkinter <br>
+└── students.txt                      # Data file storing student information <br>
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
